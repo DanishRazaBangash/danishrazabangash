@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧭 About
+## About
 
 ```yaml
 role:       MERN Stack Developer & AI Integration Specialist
@@ -29,7 +29,7 @@ looking_for: First professional role at a product-focused startup or AI team
 
 <br/>
 
-## ✨ Featured Work
+## Featured Work
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ looking_for: First professional role at a product-focused startup or AI team
 </td>
 <td width="50%" valign="top">
 
-### ⚽ [Footalyzer](https://footalyzer.app)
+### ⚽ [Footalyzer](https://github.com/DanishRazaBangash/danishrazabangash/)
 **World Cup 2026 AI companion app** — making football understandable through AI.
 
 - AI-generated match briefings + conversational chatbot
