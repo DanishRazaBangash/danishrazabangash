@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=280&section=header&text=Danish%20Raza&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=60&descSize=16" width="100%"/>
 
 <a href="https://danishraza.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+AI-powered+products+end-to-end;RAG+Pipelines+%C2%B7+MERN+%C2%B7+Gemini+API;World+Cup+2026+%E2%9A%BD+meets+AI"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+AI-powered+products+end-to-end;RAG+Pipelines+%C2%B7+MERN+%C2%B7+Gemini+API;Football+%E2%9A%BD+meets+AI"/>
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 ## About
 
 ```yaml
-role:       MERN Stack Developer & AI Integration Specialist
+role:       MERN Stack Developer & Building AI-powered Applications
 education:  BS Computer Science, University of Peshawar (GPA 3.9, Class of 2026)
 location:   Islamabad / Peshawar, Pakistan — open to remote
 focus:      Full-stack AI products — RAG pipelines, chat systems, real deployment
@@ -35,7 +35,7 @@ looking_for: First professional role at a product-focused startup or AI team
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [BotForge](https://chatbot-builder-api-2v3u.onrender.com/)
+### [BotForge web app](https://chatbot-builder-api-2v3u.onrender.com/)
 **No-code AI chatbot builder** — my Final Year Project, fully Dockerized and in production.
 
 - Four-tier parallel RAG pipeline (semantic · full-text · regex · fuzzy)
@@ -48,7 +48,7 @@ looking_for: First professional role at a product-focused startup or AI team
 </td>
 <td width="50%" valign="top">
 
-### ⚽ [Footalyzer](https://github.com/DanishRazaBangash/danishrazabangash/)
+### [Footalyzer web app](https://github.com/DanishRazaBangash/danishrazabangash/)
 **World Cup 2026 AI companion app** — making football understandable through AI.
 
 - AI-generated match briefings + conversational chatbot
