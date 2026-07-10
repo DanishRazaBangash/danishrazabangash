@@ -86,21 +86,5 @@ looking_for: First professional role at a product-focused startup or AI team
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=danishrazabangash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danishrazabangash&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=danishrazabangash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
-<i>Open to MERN Stack Developer &amp; AI Integration roles — let's build something great.</i>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=120&section=footer" width="100%"/>
